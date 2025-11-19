@@ -7,18 +7,18 @@ Keto is a full-stack e-commerce application designed for managing and purchasing
 ## 🔧 Features
 
 ### 🔑 Admin Panel
-✅ **CRUD Operations on Products** – Add, edit, delete, and list products
-✅ **Manage Users** – View, update, or remove registered users
-✅ **View Orders** – Track and manage all product orders
+-- ✅ **CRUD Operations on Products** – Add, edit, delete, and list products
+-- ✅ **Manage Users** – View, update, or remove registered users
+-- ✅ **View Orders** – Track and manage all product orders
 
 ### 🛍️ User Panel
 
-✅ **Sign Up / Login** – Register or sign in to access shopping features
-✅ **Product Listing** – View available electronic products
-✅ **Add to Cart** – Only available **after login**
-✅ **Shipping Address** – Save delivery address details
-✅ **Order Summary** – View items, pricing, tax, and totals
-✅ **Place Order** – Confirm and finalize purchases
+-- ✅ **Sign Up / Login** – Register or sign in to access shopping features
+-- ✅ **Product Listing** – View available electronic products
+-- ✅ **Add to Cart** – Only available **after login**
+-- ✅ **Shipping Address** – Save delivery address details
+-- ✅ **Order Summary** – View items, pricing, tax, and totals
+-- ✅ **Place Order** – Confirm and finalize purchases
 
 ---
 
