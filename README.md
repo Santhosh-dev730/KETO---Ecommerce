@@ -61,7 +61,7 @@ npm install
 cd frontend
 npm install
 
-**create .env file in backend folder** 
+#create .env file in backend folder
 MONGO_URI=your_mongodb_url
 PORT=7000
 
